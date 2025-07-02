@@ -5,7 +5,7 @@ color 0a
 
 :menu
 cls
-echo Welcome to Da Menu XD
+echo Welcome to The Menu 
 echo ---------------------
 pause
 echo from here u can .......
@@ -41,7 +41,7 @@ echo.
 
 set /p player=
 echo.
-echo Press any key to START ZA ANASU QUIZ XD
+echo Press any key to START ZA QUIZ পাগল
 pause >nul
 goto q1
 
